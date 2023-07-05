@@ -1,4 +1,4 @@
-<h1>Hi, My name is Eriberto, I am an IT Professional and Software Developer</h1>
+<h1>Hi, My name is Eriberto, I am an <a href='https://www.linkedin.com/in/eriberto-perez-b33b41269/'>IT Professional and Software Developer</a></h1>
 
 <h2>IT Projects</h2>
 
