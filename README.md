@@ -13,11 +13,4 @@
 <h2>Software Developer Projects</h2>
 
 <h2>Connect with me:</h2>
-
-
-[<img align='left' alt='Eriberto | LinkedIn' width='55px' src='https://github.com/EribertoPerez/EribertoPerez/assets/34051119/8d0b3451-cc9b-48d7-adc3-fd64f26fe175'
-/>](https://www.linkedin.com/in/eriberto-perez-b33b41269/)
-
-
-
-
+<a href='https://www.linkedin.com/in/eriberto-perez-b33b41269/'><img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
