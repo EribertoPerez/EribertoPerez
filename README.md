@@ -13,6 +13,7 @@
 <h2>Software Developer Projects</h2>
 
 * <b>Rock Paper Scissors</b>
+   * <a href='https://eribertoperez.github.io/RPS/'><img width="60%" height="60%" src="https://imgur.com/a/WiDNRBL" alt="RPS"/></a>
 * <b>Simon Says</b>
 * <b>Etch-a-Sketch</b>
 
