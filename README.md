@@ -14,7 +14,10 @@
 
 <h2>Connect with me:</h2>
 
-[<img align='left' alt='Eriberto | LinkedIn' width='55px' src='https://github.com/EribertoPerez/EribertoPerez/assets/34051119/61b16882-d75b-4e45-8239-7c0e0db645f1'
-/>][LinkedIn]
 
-[LinkedIn]: https://www.linkedin.com/in/eriberto-perez-b33b41269/
+[<img align='left' alt='Eriberto | LinkedIn' width='55px' src='https://github.com/EribertoPerez/EribertoPerez/assets/34051119/8d0b3451-cc9b-48d7-adc3-fd64f26fe175'
+/>](https://www.linkedin.com/in/eriberto-perez-b33b41269/)
+
+
+
+
