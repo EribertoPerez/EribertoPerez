@@ -3,9 +3,9 @@
 <h2>IT Projects</h2>
 
  * <b>OsTicket (help desk ticketing system)</b>
-    * [OsTicket: Prerequisites and Installation](https://github.com/EribertoPerez/OsTicket/blob/main/osticket-prereqs)
-    * [OsTicket: Post-Istallation Configuration](https://github.com/EribertoPerez/OsTicket/blob/main/post-installation)
-    * [OsTicket: Ticket Lifecycle Examples](https://github.com/EribertoPerez/OsTicket/blob/main/ticket-lifecycle)
+    * [OsTicket: Prerequisites and Installation](https://github.com/EribertoPerez/OsTicket/blob/main/osticket-prereqs.md)
+    * [OsTicket: Post-Istallation Configuration](https://github.com/EribertoPerez/OsTicket/blob/main/post-installation.md)
+    * [OsTicket: Ticket Lifecycle Examples](https://github.com/EribertoPerez/OsTicket/blob/main/ticket-lifecycle.md)
 <!---  
  * <b>Microsoft Azure</b>
    * [Configuring On-premises Active Directory within Azure VMs]()
