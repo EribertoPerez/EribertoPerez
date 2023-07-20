@@ -6,10 +6,12 @@
     * [OsTicket: Prerequisites and Installation](https://github.com/EribertoPerez/OsTicket/blob/main/osticket-prereqs)
     * [OsTicket: Post-Istallation Configuration](https://github.com/EribertoPerez/OsTicket/blob/main/post-installation)
     * [OsTicket: Ticket Lifecycle Examples](https://github.com/EribertoPerez/OsTicket/blob/main/ticket-lifecycle)
-  
+<!---  
  * <b>Microsoft Azure</b>
    * [Configuring On-premises Active Directory within Azure VMs]()
    * [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+   -->
+
 <h2>Software Developer Projects</h2>
 
 * <b>Rock Paper Scissors</b>
