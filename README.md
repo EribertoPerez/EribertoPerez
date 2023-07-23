@@ -1,4 +1,4 @@
-<h1>Hi, My name is Eriberto, I am an <a href='https://www.linkedin.com/in/eriberto-perez-b33b41269/'>IT Professional and Software Developer</a></h1>
+![image](https://github.com/EribertoPerez/EribertoPerez/assets/34051119/5fe6ab00-f279-422a-86d4-012a909b4991)<h1>Hi, My name is Eriberto, I am an <a href='https://www.linkedin.com/in/eriberto-perez-b33b41269/'>IT Professional and Software Developer</a></h1>
 
 <h2>IT Projects</h2>
 
@@ -17,8 +17,11 @@
 * [Rock Paper Scissors](https://eribertoperez.github.io/RPS/)
   <br />
   <img width="500" height="300" src="https://github.com/EribertoPerez/EribertoPerez/assets/34051119/5bc63656-7086-4029-9b29-b3d72180e89e" alt="RPS"/>
-* <b>Simon Says</b>
-* <b>Etch-a-Sketch</b>
+* [Simon Says](https://eribertoperez.github.io/Simon-Says/)
+  <br />
+  <img width="500" height="300" src="https://github.com/EribertoPerez/EribertoPerez/assets/34051119/2054c6fc-8644-45d6-a6bc-a9b6a524f7b3" alt="Simon-Says"/>
+<!---
+* <b>Etch-a-Sketch</b> -->
 
 <h2>Connect with me:</h2>
 <a href='https://www.linkedin.com/in/eriberto-perez-b33b41269/'><img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
