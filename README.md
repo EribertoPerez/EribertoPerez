@@ -1,4 +1,4 @@
-![image](https://github.com/EribertoPerez/EribertoPerez/assets/34051119/5fe6ab00-f279-422a-86d4-012a909b4991)<h1>Hi, My name is Eriberto, I am an <a href='https://www.linkedin.com/in/eriberto-perez-b33b41269/'>IT Professional and Software Developer</a></h1>
+<h1>Hi, My name is Eriberto, I am an <a href='https://www.linkedin.com/in/eriberto-perez-b33b41269/'>IT Professional and Software Developer</a></h1>
 
 <h2>IT Projects</h2>
 
